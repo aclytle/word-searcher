@@ -1,0 +1,3 @@
+Very basic word search solver in C. Puzzle files should be space delimeted and named puzzle.txt in the same directory. Word bank should be newline delimited and in the same directory and named wordbank.txt.
+
+Output is the grid locations and direction, the puzzle with all found characters, the puzzle with all unused characters, and the unused characters printed on one line.
